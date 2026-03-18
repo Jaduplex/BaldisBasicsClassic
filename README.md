@@ -10,7 +10,14 @@ These are touched as little as possible to keep them as close to their original 
 
 It currently includes the following versions:
 
-\-
+* 1.0 (Editor Version: 2017.3.1f1)
+* 1.1 (Editor Version: 2017.3.1f1)
+* 1.2 (Editor Version: 2017.3.1f1)
+* 1.2.1 (Editor Version: 2017.3.1f1)
+* 1.2.2 (Editor Version: 2017.3.1f1)
+* 1.3 (Editor Version: 2018.1.0f2)
+* 1.3.1 (Editor Version: 2018.1.2f1)
+* 1.3.2 (Editor Version: 2018.1.2f1)
 
 
 
