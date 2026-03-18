@@ -8,8 +8,18 @@ These are touched as little as possible to keep them as close to their original 
 
 
 
-It currently includes the following versions:
+It currently includes the following versions (in chronological order):
 
+
+
+* 3-17-18 10;55 Build (Editor Version: 2017.3.1f1)
+* 3-20-18 16;36 Build (Editor Version: 2017.3.1f1)
+* 3-20-18 16;58 Build (Editor Version: 2017.3.1f1)
+* 3-21-18 00;42 Build (Editor Version: 2017.3.1f1)
+* 3-22-18 11;30 Build (Editor Version: 2017.3.1f1)
+* 3-28-18 00;25 Build (Editor Version: 2017.3.1f1)
+* 3-30-18 04;03 Build (Editor Version: 2017.3.1f1)
+* 3-30-18 21;13 Build (Editor Version: 2017.3.1f1)
 * 1.0 (Editor Version: 2017.3.1f1)
 * 1.1 (Editor Version: 2017.3.1f1)
 * 1.2 (Editor Version: 2017.3.1f1)
